@@ -1,0 +1,2506 @@
+{
+    "nodes": [
+        {
+            "id": "LinksTheSun",
+            "x": 589,
+            "y": 498
+        },
+        {
+            "id": "L\u00e9o - TechMaker",
+            "x": 736,
+            "y": 590
+        },
+        {
+            "id": "LeChefOtaku",
+            "x": 709,
+            "y": 278
+        },
+        {
+            "id": "Lama Fach\u00e9",
+            "x": 263,
+            "y": 551
+        },
+        {
+            "id": "LaChaineDePAA",
+            "x": 322,
+            "y": 301
+        },
+        {
+            "id": "La Chaine de Jeremy",
+            "x": 289,
+            "y": 230
+        },
+        {
+            "id": "Kirbendo",
+            "x": 341,
+            "y": 112
+        },
+        {
+            "id": "Kevin Tran",
+            "x": 652,
+            "y": 232
+        },
+        {
+            "id": "Ken Bogard",
+            "x": 654,
+            "y": 517
+        },
+        {
+            "id": "Kayane",
+            "x": 641,
+            "y": 377
+        },
+        {
+            "id": "JusteJoan",
+            "x": 618,
+            "y": 343
+        },
+        {
+            "id": "Juste Zo\u00e9",
+            "x": 708,
+            "y": 191
+        },
+        {
+            "id": "Julien Chi\u00e8ze",
+            "x": 644,
+            "y": 240
+        },
+        {
+            "id": "JirayaTV",
+            "x": 149,
+            "y": 371
+        },
+        {
+            "id": "Jeel",
+            "x": 631,
+            "y": 467
+        },
+        {
+            "id": "JeanBaptisteShow",
+            "x": 606,
+            "y": 138
+        },
+        {
+            "id": "Jbzz",
+            "x": 670,
+            "y": 157
+        },
+        {
+            "id": "IbraPlus",
+            "x": 757,
+            "y": 329
+        },
+        {
+            "id": "Hugo D\u00e9lire",
+            "x": 748,
+            "y": 124
+        },
+        {
+            "id": "Heliox",
+            "x": 500,
+            "y": 401
+        },
+        {
+            "id": "Hardisk",
+            "x": 41,
+            "y": 468
+        },
+        {
+            "id": "Guillaume & Kim",
+            "x": 549,
+            "y": 407
+        },
+        {
+            "id": "Grandpoisson",
+            "x": 96,
+            "y": 48
+        },
+        {
+            "id": "GamingWithKev",
+            "x": 577,
+            "y": 509
+        },
+        {
+            "id": "GameMixTreize",
+            "x": 574,
+            "y": 305
+        },
+        {
+            "id": "Gaelle Garcia Diaz",
+            "x": 30,
+            "y": 106
+        },
+        {
+            "id": "Gabriel Dor\u00e9",
+            "x": 219,
+            "y": 183
+        },
+        {
+            "id": "Furious Jumper",
+            "x": 15,
+            "y": 120
+        },
+        {
+            "id": "Etoiles",
+            "x": 24,
+            "y": 144
+        },
+        {
+            "id": "Dr_Horse",
+            "x": 714,
+            "y": 54
+        },
+        {
+            "id": "Donald Reignoux",
+            "x": 730,
+            "y": 20
+        },
+        {
+            "id": "Domingo",
+            "x": 106,
+            "y": 250
+        },
+        {
+            "id": "Djilsi",
+            "x": 84,
+            "y": 217
+        },
+        {
+            "id": "DarkFuneral972",
+            "x": 311,
+            "y": 136
+        },
+        {
+            "id": "Dany Caligula",
+            "x": 133,
+            "y": 53
+        },
+        {
+            "id": "D4LYM0TI0N",
+            "x": 167,
+            "y": 377
+        },
+        {
+            "id": "Cyprien Gaming",
+            "x": 284,
+            "y": 513
+        },
+        {
+            "id": "Chelxie",
+            "x": 557,
+            "y": 108
+        },
+        {
+            "id": "Cauet",
+            "x": 585,
+            "y": 382
+        },
+        {
+            "id": "Bunka et LuccassTV",
+            "x": 180,
+            "y": 310
+        },
+        {
+            "id": "Bobby",
+            "x": 550,
+            "y": 255
+        },
+        {
+            "id": "Bill Silverlight",
+            "x": 592,
+            "y": 189
+        },
+        {
+            "id": "Aypierre",
+            "x": 273,
+            "y": 232
+        },
+        {
+            "id": "Anil B",
+            "x": 483,
+            "y": 261
+        },
+        {
+            "id": "Agentgb",
+            "x": 732,
+            "y": 414
+        },
+        {
+            "id": "ADRI GEEK",
+            "x": 609,
+            "y": 343
+        },
+        {
+            "id": "Andy",
+            "x": 690,
+            "y": 214
+        },
+        {
+            "id": "IbraTV",
+            "x": 171,
+            "y": 387
+        },
+        {
+            "id": "R\u00e9mi GAILLARD",
+            "x": 70,
+            "y": 292
+        },
+        {
+            "id": "Deo Toons",
+            "x": 326,
+            "y": 194
+        },
+        {
+            "id": "FantaBobGames",
+            "x": 785,
+            "y": 225
+        },
+        {
+            "id": "CodJordan23",
+            "x": 664,
+            "y": 312
+        },
+        {
+            "id": "Monsieur Poulpe",
+            "x": 219,
+            "y": 149
+        },
+        {
+            "id": "Farod",
+            "x": 623,
+            "y": 587
+        },
+        {
+            "id": "Diablox9",
+            "x": 737,
+            "y": 209
+        },
+        {
+            "id": "MrAntoineDaniel",
+            "x": 515,
+            "y": 190
+        },
+        {
+            "id": "Le Palmashow",
+            "x": 619,
+            "y": 280
+        },
+        {
+            "id": "Bruce Grannec",
+            "x": 88,
+            "y": 373
+        },
+        {
+            "id": "Aiekillu",
+            "x": 149,
+            "y": 566
+        },
+        {
+            "id": "FRSkyRRoZ",
+            "x": 30,
+            "y": 359
+        },
+        {
+            "id": "TheFantasio974",
+            "x": 298,
+            "y": 112
+        },
+        {
+            "id": "Bob Lennon",
+            "x": 311,
+            "y": 107
+        },
+        {
+            "id": "BenzaieLive",
+            "x": 47,
+            "y": 415
+        },
+        {
+            "id": "Ludovik",
+            "x": 292,
+            "y": 447
+        },
+        {
+            "id": "ZeratoR",
+            "x": 26,
+            "y": 483
+        },
+        {
+            "id": "Doigby",
+            "x": 715,
+            "y": 407
+        },
+        {
+            "id": "Domingo",
+            "x": 775,
+            "y": 326
+        },
+        {
+            "id": "Cyril / Superkonar",
+            "x": 770,
+            "y": 386
+        },
+        {
+            "id": "Valouzz",
+            "x": 540,
+            "y": 57
+        },
+        {
+            "id": "Le Grand JD",
+            "x": 425,
+            "y": 438
+        },
+        {
+            "id": "Mamytwink",
+            "x": 375,
+            "y": 590
+        },
+        {
+            "id": "Guizzi",
+            "x": 296,
+            "y": 243
+        },
+        {
+            "id": "Le Monde \u00e0 L'Envers",
+            "x": 171,
+            "y": 471
+        },
+        {
+            "id": "GOTAGA",
+            "x": 777,
+            "y": 590
+        },
+        {
+            "id": "LeBouseuh",
+            "x": 571,
+            "y": 244
+        },
+        {
+            "id": "Sup3r Konar",
+            "x": 581,
+            "y": 83
+        },
+        {
+            "id": "Tibo InShape",
+            "x": 244,
+            "y": 190
+        },
+        {
+            "id": "INOXTAG",
+            "x": 425,
+            "y": 453
+        },
+        {
+            "id": "Michou",
+            "x": 231,
+            "y": 157
+        },
+        {
+            "id": "N\u00e9o & Swan",
+            "x": 623,
+            "y": 198
+        },
+        {
+            "id": "Mcfly et Carlito",
+            "x": 541,
+            "y": 341
+        },
+        {
+            "id": "Pierre Croce",
+            "x": 272,
+            "y": 45
+        },
+        {
+            "id": "Amixem",
+            "x": 636,
+            "y": 190
+        },
+        {
+            "id": "Joyca",
+            "x": 67,
+            "y": 11
+        },
+        {
+            "id": "VodK",
+            "x": 155,
+            "y": 426
+        },
+        {
+            "id": "Tibo InShape",
+            "x": 353,
+            "y": 64
+        },
+        {
+            "id": "Squeezie",
+            "x": 601,
+            "y": 572
+        },
+        {
+            "id": "Norman Fait Des Vid\u00e9os",
+            "x": 476,
+            "y": 35
+        },
+        {
+            "id": "Prank",
+            "x": 411,
+            "y": 293
+        },
+        {
+            "id": "Dr Nozman",
+            "x": 178,
+            "y": 534
+        },
+        {
+            "id": "E-penser",
+            "x": 566,
+            "y": 71
+        },
+        {
+            "id": "HugoPOSAY",
+            "x": 654,
+            "y": 44
+        },
+        {
+            "id": "Natoo",
+            "x": 701,
+            "y": 544
+        },
+        {
+            "id": "Math se fait des films",
+            "x": 422,
+            "y": 225
+        },
+        {
+            "id": "Laink et Terracid",
+            "x": 515,
+            "y": 578
+        },
+        {
+            "id": "Le Joueur du Grenier",
+            "x": 611,
+            "y": 227
+        },
+        {
+            "id": "Joueur Du Grenier",
+            "x": 491,
+            "y": 219
+        },
+        {
+            "id": "Antoine Daniel",
+            "x": 677,
+            "y": 428
+        },
+        {
+            "id": "Markiplier",
+            "x": 783,
+            "y": 308
+        },
+        {
+            "id": "FaZe Rug",
+            "x": 228,
+            "y": 90
+        },
+        {
+            "id": "DanTDM",
+            "x": 577,
+            "y": 427
+        },
+        {
+            "id": "James Charles",
+            "x": 173,
+            "y": 320
+        },
+        {
+            "id": "Shane Dawson",
+            "x": 171,
+            "y": 137
+        },
+        {
+            "id": "Jake Paul",
+            "x": 282,
+            "y": 487
+        },
+        {
+            "id": "Casey Neistat",
+            "x": 605,
+            "y": 495
+        },
+        {
+            "id": "David Dobrik",
+            "x": 701,
+            "y": 323
+        },
+        {
+            "id": "KSI",
+            "x": 232,
+            "y": 50
+        },
+        {
+            "id": "Logan Paul",
+            "x": 798,
+            "y": 465
+        },
+        {
+            "id": "NikkieTutorials",
+            "x": 619,
+            "y": 492
+        },
+        {
+            "id": "Marques Brownlee",
+            "x": 397,
+            "y": 334
+        },
+        {
+            "id": "Pierre Croce",
+            "x": 495,
+            "y": 422
+        },
+        {
+            "id": "Mcfly et Carlito",
+            "x": 162,
+            "y": 486
+        },
+        {
+            "id": "Natoo",
+            "x": 394,
+            "y": 580
+        },
+        {
+            "id": "Joyca",
+            "x": 148,
+            "y": 189
+        },
+        {
+            "id": "Amixem",
+            "x": 15,
+            "y": 580
+        },
+        {
+            "id": "Michou",
+            "x": 744,
+            "y": 195
+        },
+        {
+            "id": "NormanFaitDesVideos",
+            "x": 793,
+            "y": 19
+        },
+        {
+            "id": "Squeezie",
+            "x": 714,
+            "y": 228
+        },
+        {
+            "id": "Cyprien",
+            "x": 541,
+            "y": 204
+        },
+        {
+            "id": "Fernanfloo",
+            "x": 246,
+            "y": 366
+        },
+        {
+            "id": "ElRubiusOMG",
+            "x": 530,
+            "y": 441
+        },
+        {
+            "id": "LeFloid",
+            "x": 228,
+            "y": 343
+        },
+        {
+            "id": "Smosh",
+            "x": 730,
+            "y": 255
+        },
+        {
+            "id": "Holasoygerman",
+            "x": 247,
+            "y": 11
+        },
+        {
+            "id": "Dude Perfect",
+            "x": 90,
+            "y": 509
+        },
+        {
+            "id": "MrBeast",
+            "x": 105,
+            "y": 333
+        },
+        {
+            "id": "T-Series",
+            "x": 378,
+            "y": 526
+        },
+        {
+            "id": "PewDiePie",
+            "x": 83,
+            "y": 270
+        },
+        {
+            "id": "SuperResearcher",
+            "x": 466,
+            "y": 525
+        },
+        {
+            "id": "SadM\u00e9canicien",
+            "x": 456,
+            "y": 553
+        },
+        {
+            "id": "YoungCr\u00e9ateur",
+            "x": 730,
+            "y": 576
+        },
+        {
+            "id": "HeureuxBuilder",
+            "x": 686,
+            "y": 32
+        },
+        {
+            "id": "MiniScholar",
+            "x": 792,
+            "y": 482
+        },
+        {
+            "id": "M\u00e9gaGuardian",
+            "x": 648,
+            "y": 225
+        },
+        {
+            "id": "RuralExplorer",
+            "x": 98,
+            "y": 277
+        },
+        {
+            "id": "SuperScientist",
+            "x": 680,
+            "y": 16
+        },
+        {
+            "id": "UltraResearcher",
+            "x": 466,
+            "y": 589
+        },
+        {
+            "id": "HeureuxGamer",
+            "x": 380,
+            "y": 101
+        },
+        {
+            "id": "RapideCollector",
+            "x": 372,
+            "y": 15
+        },
+        {
+            "id": "FunnyWriter",
+            "x": 30,
+            "y": 233
+        },
+        {
+            "id": "SmartHacker",
+            "x": 256,
+            "y": 54
+        },
+        {
+            "id": "CryptoTeacher",
+            "x": 582,
+            "y": 404
+        },
+        {
+            "id": "MagicScholar",
+            "x": 509,
+            "y": 249
+        },
+        {
+            "id": "TechStrategist",
+            "x": 245,
+            "y": 407
+        },
+        {
+            "id": "CryptoGuardian",
+            "x": 504,
+            "y": 217
+        },
+        {
+            "id": "GamingAnalyst",
+            "x": 578,
+            "y": 122
+        },
+        {
+            "id": "MiniHacker",
+            "x": 520,
+            "y": 448
+        },
+        {
+            "id": "FunnyMentor",
+            "x": 718,
+            "y": 303
+        },
+        {
+            "id": "UltraTeacher",
+            "x": 678,
+            "y": 418
+        },
+        {
+            "id": "MaxArchitect",
+            "x": 535,
+            "y": 231
+        },
+        {
+            "id": "GamingExplorer",
+            "x": 515,
+            "y": 441
+        },
+        {
+            "id": "PrimeWizard",
+            "x": 176,
+            "y": 476
+        },
+        {
+            "id": "MonsieurRanger",
+            "x": 26,
+            "y": 458
+        },
+        {
+            "id": "CoolPilote",
+            "x": 317,
+            "y": 505
+        },
+        {
+            "id": "ProAnalyst",
+            "x": 315,
+            "y": 537
+        },
+        {
+            "id": "CryptoResearcher",
+            "x": 61,
+            "y": 589
+        },
+        {
+            "id": "QuickPainter",
+            "x": 349,
+            "y": 488
+        },
+        {
+            "id": "ProExplorer",
+            "x": 762,
+            "y": 99
+        },
+        {
+            "id": "S\u00e9rieuxRanger",
+            "x": 99,
+            "y": 77
+        },
+        {
+            "id": "PrimeSinger",
+            "x": 775,
+            "y": 269
+        },
+        {
+            "id": "SadCollector",
+            "x": 488,
+            "y": 88
+        },
+        {
+            "id": "MadameReviewer",
+            "x": 319,
+            "y": 150
+        },
+        {
+            "id": "HistoireAstronaut",
+            "x": 560,
+            "y": 332
+        },
+        {
+            "id": "MaxCr\u00e9ateur",
+            "x": 563,
+            "y": 185
+        },
+        {
+            "id": "CryptoSinger",
+            "x": 430,
+            "y": 580
+        },
+        {
+            "id": "HistoireEnthusiast",
+            "x": 569,
+            "y": 282
+        },
+        {
+            "id": "HistoireGamer",
+            "x": 661,
+            "y": 168
+        },
+        {
+            "id": "YoungGamer",
+            "x": 50,
+            "y": 527
+        },
+        {
+            "id": "SuperPainter",
+            "x": 497,
+            "y": 600
+        },
+        {
+            "id": "GamingConsultant",
+            "x": 728,
+            "y": 111
+        },
+        {
+            "id": "RoyalTrader",
+            "x": 616,
+            "y": 563
+        },
+        {
+            "id": "MysteryVlogger",
+            "x": 19,
+            "y": 174
+        },
+        {
+            "id": "S\u00e9rieuxCollector",
+            "x": 17,
+            "y": 342
+        },
+        {
+            "id": "S\u00e9rieuxDanseur",
+            "x": 349,
+            "y": 25
+        },
+        {
+            "id": "MiniCrafter",
+            "x": 553,
+            "y": 15
+        },
+        {
+            "id": "FunnyDanseur",
+            "x": 771,
+            "y": 344
+        },
+        {
+            "id": "MadameWriter",
+            "x": 421,
+            "y": 576
+        },
+        {
+            "id": "MaxExplorer",
+            "x": 708,
+            "y": 523
+        },
+        {
+            "id": "ProCollector",
+            "x": 387,
+            "y": 155
+        },
+        {
+            "id": "VlogPainter",
+            "x": 546,
+            "y": 227
+        },
+        {
+            "id": "SuperTeacher",
+            "x": 580,
+            "y": 186
+        },
+        {
+            "id": "RapideCollector",
+            "x": 587,
+            "y": 293
+        },
+        {
+            "id": "GlobalVlogger",
+            "x": 333,
+            "y": 492
+        },
+        {
+            "id": "M\u00e9gaGuide",
+            "x": 341,
+            "y": 491
+        },
+        {
+            "id": "EpicChef",
+            "x": 696,
+            "y": 587
+        },
+        {
+            "id": "QuickScholar",
+            "x": 778,
+            "y": 515
+        },
+        {
+            "id": "FuturePainter",
+            "x": 170,
+            "y": 64
+        },
+        {
+            "id": "MagicChef",
+            "x": 795,
+            "y": 460
+        },
+        {
+            "id": "MonsieurAstronaut",
+            "x": 748,
+            "y": 280
+        },
+        {
+            "id": "FunnyEnthusiast",
+            "x": 750,
+            "y": 565
+        },
+        {
+            "id": "\u00c9liteReviewer",
+            "x": 147,
+            "y": 36
+        },
+        {
+            "id": "EpicResearcher",
+            "x": 281,
+            "y": 130
+        },
+        {
+            "id": "CrazyPhilosophe",
+            "x": 792,
+            "y": 569
+        },
+        {
+            "id": "R\u00e9troGuide",
+            "x": 654,
+            "y": 356
+        },
+        {
+            "id": "R\u00e9troDanseur",
+            "x": 297,
+            "y": 86
+        },
+        {
+            "id": "RapideExplorer",
+            "x": 626,
+            "y": 170
+        },
+        {
+            "id": "MaxStrategist",
+            "x": 741,
+            "y": 405
+        },
+        {
+            "id": "MagicInvestigator",
+            "x": 404,
+            "y": 83
+        },
+        {
+            "id": "ProWriter",
+            "x": 225,
+            "y": 334
+        },
+        {
+            "id": "HistoireGuardian",
+            "x": 547,
+            "y": 585
+        },
+        {
+            "id": "\u00c9liteDesigner",
+            "x": 650,
+            "y": 42
+        },
+        {
+            "id": "GamingVlogger",
+            "x": 539,
+            "y": 349
+        },
+        {
+            "id": "HeureuxEngineer",
+            "x": 187,
+            "y": 259
+        },
+        {
+            "id": "QuotidienKnight",
+            "x": 669,
+            "y": 402
+        },
+        {
+            "id": "CoolRanger",
+            "x": 246,
+            "y": 456
+        },
+        {
+            "id": "S\u00e9rieuxM\u00e9canicien",
+            "x": 239,
+            "y": 313
+        },
+        {
+            "id": "SuperbeChef",
+            "x": 28,
+            "y": 551
+        },
+        {
+            "id": "FunnyGamer",
+            "x": 663,
+            "y": 27
+        },
+        {
+            "id": "MagicTeacher",
+            "x": 137,
+            "y": 400
+        },
+        {
+            "id": "S\u00e9rieuxCollector",
+            "x": 230,
+            "y": 387
+        },
+        {
+            "id": "CoolResearcher",
+            "x": 325,
+            "y": 171
+        },
+        {
+            "id": "MadameScientist",
+            "x": 598,
+            "y": 61
+        },
+        {
+            "id": "GamingHacker",
+            "x": 380,
+            "y": 348
+        },
+        {
+            "id": "QuotidienSinger",
+            "x": 351,
+            "y": 499
+        },
+        {
+            "id": "SuperbePilote",
+            "x": 286,
+            "y": 504
+        },
+        {
+            "id": "QuickExplorer",
+            "x": 582,
+            "y": 100
+        },
+        {
+            "id": "\u00c9liteEngineer",
+            "x": 480,
+            "y": 196
+        },
+        {
+            "id": "S\u00e9rieuxGuide",
+            "x": 567,
+            "y": 124
+        },
+        {
+            "id": "HistoireHistorian",
+            "x": 279,
+            "y": 367
+        },
+        {
+            "id": "ProPainter",
+            "x": 300,
+            "y": 177
+        },
+        {
+            "id": "MaxCr\u00e9ateur",
+            "x": 628,
+            "y": 484
+        },
+        {
+            "id": "CoolResearcher",
+            "x": 641,
+            "y": 20
+        },
+        {
+            "id": "GamingTh\u00e9rapeute",
+            "x": 478,
+            "y": 509
+        },
+        {
+            "id": "YoungPhilosophe",
+            "x": 363,
+            "y": 455
+        },
+        {
+            "id": "RapideKnight",
+            "x": 299,
+            "y": 155
+        },
+        {
+            "id": "ProInvestigator",
+            "x": 272,
+            "y": 528
+        },
+        {
+            "id": "QuickHistorian",
+            "x": 482,
+            "y": 395
+        },
+        {
+            "id": "\u00c9liteResearcher",
+            "x": 87,
+            "y": 141
+        },
+        {
+            "id": "UrbanExplorer",
+            "x": 632,
+            "y": 244
+        },
+        {
+            "id": "ProVlogger",
+            "x": 567,
+            "y": 600
+        },
+        {
+            "id": "M\u00e9gaBuilder",
+            "x": 192,
+            "y": 287
+        },
+        {
+            "id": "VlogVlogger",
+            "x": 573,
+            "y": 235
+        },
+        {
+            "id": "S\u00e9rieuxTrader",
+            "x": 564,
+            "y": 18
+        },
+        {
+            "id": "AncienVlogger",
+            "x": 727,
+            "y": 431
+        },
+        {
+            "id": "UrbanEngineer",
+            "x": 560,
+            "y": 334
+        },
+        {
+            "id": "RoyalEngineer",
+            "x": 630,
+            "y": 537
+        },
+        {
+            "id": "MaxEnthusiast",
+            "x": 708,
+            "y": 487
+        },
+        {
+            "id": "FutureEnthusiast",
+            "x": 539,
+            "y": 507
+        },
+        {
+            "id": "CoolDanseur",
+            "x": 331,
+            "y": 230
+        },
+        {
+            "id": "UrbanVlogger",
+            "x": 674,
+            "y": 345
+        },
+        {
+            "id": "MagicCrafter",
+            "x": 587,
+            "y": 459
+        },
+        {
+            "id": "HyperArtiste",
+            "x": 111,
+            "y": 377
+        },
+        {
+            "id": "M\u00e9gaTh\u00e9rapeute",
+            "x": 505,
+            "y": 55
+        },
+        {
+            "id": "M\u00e9gaHistorian",
+            "x": 256,
+            "y": 116
+        },
+        {
+            "id": "MasterResearcher",
+            "x": 200,
+            "y": 284
+        },
+        {
+            "id": "RapideVlogger",
+            "x": 615,
+            "y": 49
+        },
+        {
+            "id": "RapideCollector",
+            "x": 779,
+            "y": 237
+        },
+        {
+            "id": "UrbanTh\u00e9rapeute",
+            "x": 588,
+            "y": 197
+        },
+        {
+            "id": "HyperScientist",
+            "x": 237,
+            "y": 136
+        },
+        {
+            "id": "QuotidienReviewer",
+            "x": 395,
+            "y": 21
+        },
+        {
+            "id": "GlobalAstronaut",
+            "x": 674,
+            "y": 68
+        },
+        {
+            "id": "\u00c9liteCollector",
+            "x": 127,
+            "y": 383
+        },
+        {
+            "id": "HyperScientist",
+            "x": 357,
+            "y": 298
+        },
+        {
+            "id": "RoyalEngineer",
+            "x": 245,
+            "y": 154
+        },
+        {
+            "id": "MonsieurRanger",
+            "x": 315,
+            "y": 222
+        },
+        {
+            "id": "AncienResearcher",
+            "x": 235,
+            "y": 474
+        },
+        {
+            "id": "MadameArchitect",
+            "x": 371,
+            "y": 468
+        },
+        {
+            "id": "R\u00e9troWizard",
+            "x": 147,
+            "y": 435
+        },
+        {
+            "id": "UltraPhilosophe",
+            "x": 740,
+            "y": 326
+        },
+        {
+            "id": "YoungStrategist",
+            "x": 674,
+            "y": 578
+        },
+        {
+            "id": "HeureuxDanseur",
+            "x": 504,
+            "y": 581
+        },
+        {
+            "id": "HistoireVlogger",
+            "x": 453,
+            "y": 467
+        },
+        {
+            "id": "MadameAstronaut",
+            "x": 41,
+            "y": 13
+        },
+        {
+            "id": "CoolStrategist",
+            "x": 375,
+            "y": 514
+        },
+        {
+            "id": "SadArchitect",
+            "x": 763,
+            "y": 255
+        },
+        {
+            "id": "CoolScientist",
+            "x": 299,
+            "y": 589
+        },
+        {
+            "id": "QuickEnthusiast",
+            "x": 379,
+            "y": 425
+        },
+        {
+            "id": "HistoireCr\u00e9ateur",
+            "x": 461,
+            "y": 171
+        },
+        {
+            "id": "FutureVlogger",
+            "x": 645,
+            "y": 289
+        },
+        {
+            "id": "FutureArchitect",
+            "x": 644,
+            "y": 470
+        },
+        {
+            "id": "RuralReviewer",
+            "x": 242,
+            "y": 196
+        },
+        {
+            "id": "UltraTrader",
+            "x": 522,
+            "y": 388
+        },
+        {
+            "id": "M\u00e9gaGuardian",
+            "x": 613,
+            "y": 15
+        },
+        {
+            "id": "MagicChef",
+            "x": 451,
+            "y": 407
+        },
+        {
+            "id": "VlogEnthusiast",
+            "x": 763,
+            "y": 581
+        },
+        {
+            "id": "HyperHacker",
+            "x": 160,
+            "y": 379
+        },
+        {
+            "id": "HistoireScientist",
+            "x": 734,
+            "y": 163
+        },
+        {
+            "id": "RapideTh\u00e9rapeute",
+            "x": 657,
+            "y": 81
+        },
+        {
+            "id": "QuotidienM\u00e9canicien",
+            "x": 389,
+            "y": 317
+        },
+        {
+            "id": "SmartGuide",
+            "x": 63,
+            "y": 496
+        },
+        {
+            "id": "UrbanHacker",
+            "x": 39,
+            "y": 173
+        },
+        {
+            "id": "MagicAstronaut",
+            "x": 475,
+            "y": 541
+        },
+        {
+            "id": "QuickTeacher",
+            "x": 532,
+            "y": 513
+        },
+        {
+            "id": "CrazyTh\u00e9rapeute",
+            "x": 220,
+            "y": 329
+        },
+        {
+            "id": "MaxChef",
+            "x": 232,
+            "y": 215
+        },
+        {
+            "id": "ProDesigner",
+            "x": 730,
+            "y": 421
+        },
+        {
+            "id": "RoyalRanger",
+            "x": 11,
+            "y": 98
+        },
+        {
+            "id": "MiniVlogger",
+            "x": 14,
+            "y": 549
+        },
+        {
+            "id": "VlogPainter",
+            "x": 402,
+            "y": 377
+        },
+        {
+            "id": "MasterChef",
+            "x": 605,
+            "y": 49
+        },
+        {
+            "id": "RapideStrategist",
+            "x": 14,
+            "y": 251
+        },
+        {
+            "id": "UrbanTh\u00e9rapeute",
+            "x": 412,
+            "y": 490
+        },
+        {
+            "id": "FutureSinger",
+            "x": 705,
+            "y": 334
+        },
+        {
+            "id": "HistoireWizard",
+            "x": 414,
+            "y": 427
+        },
+        {
+            "id": "UrbanChef",
+            "x": 177,
+            "y": 545
+        },
+        {
+            "id": "MagicRanger",
+            "x": 288,
+            "y": 200
+        },
+        {
+            "id": "MadameVlogger",
+            "x": 790,
+            "y": 348
+        },
+        {
+            "id": "MadameCollector",
+            "x": 78,
+            "y": 528
+        },
+        {
+            "id": "HyperEngineer",
+            "x": 654,
+            "y": 210
+        },
+        {
+            "id": "CrazyVlogger",
+            "x": 445,
+            "y": 517
+        },
+        {
+            "id": "CryptoKnight",
+            "x": 274,
+            "y": 208
+        },
+        {
+            "id": "SuperbeChef",
+            "x": 251,
+            "y": 361
+        },
+        {
+            "id": "\u00c9liteMentor",
+            "x": 38,
+            "y": 209
+        },
+        {
+            "id": "MonsieurExplorer",
+            "x": 589,
+            "y": 586
+        },
+        {
+            "id": "HeureuxCrafter",
+            "x": 145,
+            "y": 278
+        },
+        {
+            "id": "RapideSinger",
+            "x": 584,
+            "y": 140
+        },
+        {
+            "id": "FunnyTeacher",
+            "x": 58,
+            "y": 121
+        },
+        {
+            "id": "CoolTeacher",
+            "x": 585,
+            "y": 591
+        },
+        {
+            "id": "AncienAnalyst",
+            "x": 52,
+            "y": 485
+        },
+        {
+            "id": "HyperInvestigator",
+            "x": 415,
+            "y": 213
+        },
+        {
+            "id": "R\u00e9troAstronaut",
+            "x": 659,
+            "y": 366
+        },
+        {
+            "id": "HeureuxGuardian",
+            "x": 478,
+            "y": 300
+        },
+        {
+            "id": "QuickGamer",
+            "x": 613,
+            "y": 582
+        },
+        {
+            "id": "SuperBuilder",
+            "x": 644,
+            "y": 498
+        },
+        {
+            "id": "M\u00e9gaScientist",
+            "x": 77,
+            "y": 144
+        },
+        {
+            "id": "GamingGuardian",
+            "x": 604,
+            "y": 573
+        },
+        {
+            "id": "MiniTh\u00e9rapeute",
+            "x": 346,
+            "y": 490
+        },
+        {
+            "id": "R\u00e9troGamer",
+            "x": 745,
+            "y": 32
+        },
+        {
+            "id": "\u00c9liteScholar",
+            "x": 233,
+            "y": 20
+        },
+        {
+            "id": "SmartCollector",
+            "x": 33,
+            "y": 71
+        },
+        {
+            "id": "MasterScientist",
+            "x": 355,
+            "y": 421
+        },
+        {
+            "id": "YoungCollector",
+            "x": 31,
+            "y": 122
+        },
+        {
+            "id": "QuotidienVlogger",
+            "x": 576,
+            "y": 418
+        },
+        {
+            "id": "SadConsultant",
+            "x": 97,
+            "y": 344
+        },
+        {
+            "id": "R\u00e9troTh\u00e9rapeute",
+            "x": 16,
+            "y": 509
+        },
+        {
+            "id": "HistoireReviewer",
+            "x": 574,
+            "y": 411
+        },
+        {
+            "id": "R\u00e9troKnight",
+            "x": 339,
+            "y": 122
+        },
+        {
+            "id": "MaxPilote",
+            "x": 476,
+            "y": 152
+        },
+        {
+            "id": "MagicConsultant",
+            "x": 128,
+            "y": 477
+        },
+        {
+            "id": "GamingWriter",
+            "x": 794,
+            "y": 157
+        },
+        {
+            "id": "AncienScientist",
+            "x": 119,
+            "y": 357
+        },
+        {
+            "id": "QuotidienEnthusiast",
+            "x": 662,
+            "y": 152
+        },
+        {
+            "id": "MysteryPilote",
+            "x": 193,
+            "y": 581
+        },
+        {
+            "id": "MysteryMentor",
+            "x": 403,
+            "y": 206
+        },
+        {
+            "id": "CoolGamer",
+            "x": 279,
+            "y": 507
+        },
+        {
+            "id": "HistoireCrafter",
+            "x": 142,
+            "y": 357
+        },
+        {
+            "id": "HyperHacker",
+            "x": 701,
+            "y": 281
+        },
+        {
+            "id": "RoyalVlogger",
+            "x": 598,
+            "y": 29
+        },
+        {
+            "id": "MysteryHacker",
+            "x": 372,
+            "y": 351
+        },
+        {
+            "id": "SuperbeConsultant",
+            "x": 434,
+            "y": 439
+        },
+        {
+            "id": "CoolTeacher",
+            "x": 294,
+            "y": 363
+        },
+        {
+            "id": "YoungCollector",
+            "x": 742,
+            "y": 68
+        },
+        {
+            "id": "MonsieurDesigner",
+            "x": 327,
+            "y": 587
+        },
+        {
+            "id": "MonsieurBuilder",
+            "x": 414,
+            "y": 514
+        },
+        {
+            "id": "MiniAnalyst",
+            "x": 446,
+            "y": 496
+        },
+        {
+            "id": "SadArtiste",
+            "x": 356,
+            "y": 458
+        },
+        {
+            "id": "M\u00e9gaWriter",
+            "x": 658,
+            "y": 163
+        },
+        {
+            "id": "RoyalArtiste",
+            "x": 635,
+            "y": 515
+        },
+        {
+            "id": "CryptoRanger",
+            "x": 606,
+            "y": 402
+        },
+        {
+            "id": "GamingHacker",
+            "x": 602,
+            "y": 442
+        },
+        {
+            "id": "RuralAstronaut",
+            "x": 482,
+            "y": 340
+        },
+        {
+            "id": "MadameArchitect",
+            "x": 640,
+            "y": 82
+        },
+        {
+            "id": "CryptoReviewer",
+            "x": 316,
+            "y": 203
+        },
+        {
+            "id": "MonsieurGuide",
+            "x": 617,
+            "y": 216
+        },
+        {
+            "id": "FutureStrategist",
+            "x": 599,
+            "y": 373
+        },
+        {
+            "id": "FunnyHistorian",
+            "x": 50,
+            "y": 221
+        },
+        {
+            "id": "\u00c9liteScientist",
+            "x": 543,
+            "y": 340
+        },
+        {
+            "id": "GlobalScientist",
+            "x": 502,
+            "y": 51
+        },
+        {
+            "id": "QuickEnthusiast",
+            "x": 419,
+            "y": 340
+        },
+        {
+            "id": "S\u00e9rieuxKnight",
+            "x": 627,
+            "y": 329
+        },
+        {
+            "id": "MasterTrader",
+            "x": 24,
+            "y": 55
+        },
+        {
+            "id": "YoungHistorian",
+            "x": 513,
+            "y": 277
+        },
+        {
+            "id": "MadameAstronaut",
+            "x": 306,
+            "y": 545
+        },
+        {
+            "id": "CryptoConsultant",
+            "x": 526,
+            "y": 16
+        },
+        {
+            "id": "MagicPhilosophe",
+            "x": 422,
+            "y": 63
+        },
+        {
+            "id": "MasterGuide",
+            "x": 23,
+            "y": 490
+        },
+        {
+            "id": "CryptoAstronaut",
+            "x": 74,
+            "y": 542
+        },
+        {
+            "id": "QuickBuilder",
+            "x": 413,
+            "y": 136
+        },
+        {
+            "id": "MadameDesigner",
+            "x": 295,
+            "y": 486
+        },
+        {
+            "id": "CoolHistorian",
+            "x": 488,
+            "y": 359
+        },
+        {
+            "id": "YoungStrategist",
+            "x": 161,
+            "y": 68
+        },
+        {
+            "id": "UrbanDesigner",
+            "x": 116,
+            "y": 215
+        },
+        {
+            "id": "YoungWriter",
+            "x": 581,
+            "y": 363
+        },
+        {
+            "id": "SuperHacker",
+            "x": 138,
+            "y": 394
+        },
+        {
+            "id": "UrbanRanger",
+            "x": 552,
+            "y": 548
+        },
+        {
+            "id": "CrazyArchitect",
+            "x": 772,
+            "y": 413
+        },
+        {
+            "id": "MagicWizard",
+            "x": 558,
+            "y": 135
+        },
+        {
+            "id": "ProScientist",
+            "x": 46,
+            "y": 455
+        },
+        {
+            "id": "VlogGamer",
+            "x": 792,
+            "y": 417
+        },
+        {
+            "id": "ProInvestigator",
+            "x": 194,
+            "y": 74
+        },
+        {
+            "id": "RoyalCr\u00e9ateur",
+            "x": 254,
+            "y": 192
+        },
+        {
+            "id": "CrazyTrader",
+            "x": 164,
+            "y": 558
+        },
+        {
+            "id": "DrGuardian",
+            "x": 248,
+            "y": 586
+        },
+        {
+            "id": "R\u00e9troInvestigator",
+            "x": 86,
+            "y": 546
+        },
+        {
+            "id": "MadameEnthusiast",
+            "x": 370,
+            "y": 560
+        },
+        {
+            "id": "MadameScholar",
+            "x": 701,
+            "y": 22
+        },
+        {
+            "id": "RuralSinger",
+            "x": 465,
+            "y": 475
+        },
+        {
+            "id": "MagicDesigner",
+            "x": 762,
+            "y": 567
+        },
+        {
+            "id": "TechDanseur",
+            "x": 496,
+            "y": 171
+        },
+        {
+            "id": "VlogHacker",
+            "x": 165,
+            "y": 455
+        },
+        {
+            "id": "UltraGuide",
+            "x": 629,
+            "y": 131
+        },
+        {
+            "id": "MonsieurVlogger",
+            "x": 600,
+            "y": 510
+        },
+        {
+            "id": "CryptoScholar",
+            "x": 408,
+            "y": 513
+        },
+        {
+            "id": "QuickAnalyst",
+            "x": 546,
+            "y": 358
+        },
+        {
+            "id": "SuperbePilote",
+            "x": 50,
+            "y": 207
+        },
+        {
+            "id": "PrimeExplorer",
+            "x": 576,
+            "y": 444
+        },
+        {
+            "id": "AncienResearcher",
+            "x": 620,
+            "y": 338
+        },
+        {
+            "id": "SuperbeScientist",
+            "x": 301,
+            "y": 270
+        },
+        {
+            "id": "CryptoReviewer",
+            "x": 479,
+            "y": 551
+        },
+        {
+            "id": "PrimeGuardian",
+            "x": 75,
+            "y": 46
+        }
+    ],
+    "edges": [
+        {
+            "source": "HistoireWizard",
+            "target": "Marques Brownlee",
+            "value": 10
+        },
+        {
+            "source": "Bobby",
+            "target": "Michou",
+            "value": 5
+        },
+        {
+            "source": "UrbanTh\u00e9rapeute",
+            "target": "L\u00e9o - TechMaker",
+            "value": 7
+        },
+        {
+            "source": "S\u00e9rieuxM\u00e9canicien",
+            "target": "Guizzi",
+            "value": 8
+        },
+        {
+            "source": "Furious Jumper",
+            "target": "\u00c9liteResearcher",
+            "value": 4
+        },
+        {
+            "source": "\u00c9liteDesigner",
+            "target": "FunnyTeacher",
+            "value": 4
+        },
+        {
+            "source": "QuickBuilder",
+            "target": "\u00c9liteScholar",
+            "value": 2
+        },
+        {
+            "source": "MagicRanger",
+            "target": "MadameReviewer",
+            "value": 4
+        },
+        {
+            "source": "VlogHacker",
+            "target": "VodK",
+            "value": 2
+        },
+        {
+            "source": "YoungCr\u00e9ateur",
+            "target": "CryptoResearcher",
+            "value": 8
+        },
+        {
+            "source": "MagicConsultant",
+            "target": "VlogEnthusiast",
+            "value": 4
+        },
+        {
+            "source": "CoolResearcher",
+            "target": "M\u00e9gaGuardian",
+            "value": 3
+        },
+        {
+            "source": "AncienVlogger",
+            "target": "YoungGamer",
+            "value": 5
+        },
+        {
+            "source": "Shane Dawson",
+            "target": "Ken Bogard",
+            "value": 4
+        },
+        {
+            "source": "Aypierre",
+            "target": "RapideTh\u00e9rapeute",
+            "value": 4
+        },
+        {
+            "source": "Aypierre",
+            "target": "RapideExplorer",
+            "value": 3
+        },
+        {
+            "source": "RapideKnight",
+            "target": "CryptoGuardian",
+            "value": 8
+        },
+        {
+            "source": "VodK",
+            "target": "MagicDesigner",
+            "value": 3
+        },
+        {
+            "source": "UrbanTh\u00e9rapeute",
+            "target": "LaChaineDePAA",
+            "value": 9
+        },
+        {
+            "source": "ADRI GEEK",
+            "target": "Andy",
+            "value": 8
+        },
+        {
+            "source": "MasterChef",
+            "target": "SuperbeScientist",
+            "value": 7
+        },
+        {
+            "source": "\u00c9liteScientist",
+            "target": "QuickAnalyst",
+            "value": 3
+        },
+        {
+            "source": "MiniVlogger",
+            "target": "HeureuxGuardian",
+            "value": 5
+        },
+        {
+            "source": "Joueur Du Grenier",
+            "target": "CoolResearcher",
+            "value": 2
+        },
+        {
+            "source": "Amixem",
+            "target": "UrbanEngineer",
+            "value": 3
+        },
+        {
+            "source": "GamingWriter",
+            "target": "Jake Paul",
+            "value": 7
+        },
+        {
+            "source": "HyperInvestigator",
+            "target": "Le Joueur du Grenier",
+            "value": 3
+        },
+        {
+            "source": "VlogEnthusiast",
+            "target": "Amixem",
+            "value": 7
+        },
+        {
+            "source": "MasterChef",
+            "target": "Amixem",
+            "value": 1
+        },
+        {
+            "source": "UrbanTh\u00e9rapeute",
+            "target": "DarkFuneral972",
+            "value": 4
+        },
+        {
+            "source": "Fernanfloo",
+            "target": "HyperScientist",
+            "value": 5
+        },
+        {
+            "source": "S\u00e9rieuxRanger",
+            "target": "SuperbeChef",
+            "value": 7
+        },
+        {
+            "source": "R\u00e9troWizard",
+            "target": "VlogHacker",
+            "value": 10
+        },
+        {
+            "source": "S\u00e9rieuxTrader",
+            "target": "\u00c9liteReviewer",
+            "value": 10
+        },
+        {
+            "source": "GamingConsultant",
+            "target": "\u00c9liteScientist",
+            "value": 7
+        },
+        {
+            "source": "MonsieurExplorer",
+            "target": "RapideSinger",
+            "value": 6
+        },
+        {
+            "source": "YoungPhilosophe",
+            "target": "GlobalVlogger",
+            "value": 7
+        },
+        {
+            "source": "HistoireCrafter",
+            "target": "GameMixTreize",
+            "value": 6
+        },
+        {
+            "source": "HyperEngineer",
+            "target": "FunnyEnthusiast",
+            "value": 1
+        },
+        {
+            "source": "HeureuxGuardian",
+            "target": "Tibo InShape",
+            "value": 5
+        },
+        {
+            "source": "M\u00e9gaBuilder",
+            "target": "SuperPainter",
+            "value": 5
+        },
+        {
+            "source": "MiniHacker",
+            "target": "R\u00e9troGuide",
+            "value": 7
+        },
+        {
+            "source": "MysteryVlogger",
+            "target": "Cyril / Superkonar",
+            "value": 10
+        },
+        {
+            "source": "Hardisk",
+            "target": "QuickPainter",
+            "value": 1
+        },
+        {
+            "source": "MasterChef",
+            "target": "FunnyWriter",
+            "value": 5
+        },
+        {
+            "source": "MaxPilote",
+            "target": "FunnyGamer",
+            "value": 4
+        },
+        {
+            "source": "MasterGuide",
+            "target": "AncienAnalyst",
+            "value": 8
+        },
+        {
+            "source": "MiniAnalyst",
+            "target": "CryptoConsultant",
+            "value": 1
+        },
+        {
+            "source": "MagicPhilosophe",
+            "target": "Andy",
+            "value": 10
+        },
+        {
+            "source": "Math se fait des films",
+            "target": "\u00c9liteReviewer",
+            "value": 4
+        },
+        {
+            "source": "ProAnalyst",
+            "target": "MagicRanger",
+            "value": 5
+        },
+        {
+            "source": "GameMixTreize",
+            "target": "\u00c9liteReviewer",
+            "value": 3
+        },
+        {
+            "source": "MonsieurDesigner",
+            "target": "GamingTh\u00e9rapeute",
+            "value": 10
+        },
+        {
+            "source": "Deo Toons",
+            "target": "GamingAnalyst",
+            "value": 4
+        },
+        {
+            "source": "MagicChef",
+            "target": "SuperHacker",
+            "value": 3
+        },
+        {
+            "source": "UltraTrader",
+            "target": "RuralSinger",
+            "value": 5
+        },
+        {
+            "source": "Logan Paul",
+            "target": "RuralReviewer",
+            "value": 1
+        },
+        {
+            "source": "Math se fait des films",
+            "target": "MagicWizard",
+            "value": 1
+        },
+        {
+            "source": "SadArchitect",
+            "target": "UrbanHacker",
+            "value": 8
+        },
+        {
+            "source": "Domingo",
+            "target": "RuralReviewer",
+            "value": 9
+        },
+        {
+            "source": "GlobalVlogger",
+            "target": "R\u00e9troGuide",
+            "value": 1
+        },
+        {
+            "source": "HistoireAstronaut",
+            "target": "HistoireCr\u00e9ateur",
+            "value": 1
+        },
+        {
+            "source": "Kevin Tran",
+            "target": "SmartCollector",
+            "value": 5
+        },
+        {
+            "source": "\u00c9liteResearcher",
+            "target": "Cyril / Superkonar",
+            "value": 5
+        },
+        {
+            "source": "M\u00e9gaTh\u00e9rapeute",
+            "target": "S\u00e9rieuxTrader",
+            "value": 4
+        },
+        {
+            "source": "S\u00e9rieuxM\u00e9canicien",
+            "target": "Grandpoisson",
+            "value": 3
+        },
+        {
+            "source": "M\u00e9gaGuardian",
+            "target": "MaxEnthusiast",
+            "value": 5
+        },
+        {
+            "source": "AncienAnalyst",
+            "target": "HistoireVlogger",
+            "value": 3
+        },
+        {
+            "source": "MagicCrafter",
+            "target": "ProVlogger",
+            "value": 9
+        },
+        {
+            "source": "SuperScientist",
+            "target": "GOTAGA",
+            "value": 10
+        },
+        {
+            "source": "ProDesigner",
+            "target": "NormanFaitDesVideos",
+            "value": 4
+        },
+        {
+            "source": "QuickEnthusiast",
+            "target": "MonsieurDesigner",
+            "value": 1
+        },
+        {
+            "source": "Mcfly et Carlito",
+            "target": "\u00c9liteScholar",
+            "value": 7
+        },
+        {
+            "source": "Michou",
+            "target": "Kevin Tran",
+            "value": 6
+        },
+        {
+            "source": "RuralReviewer",
+            "target": "MysteryMentor",
+            "value": 2
+        },
+        {
+            "source": "SuperBuilder",
+            "target": "RapideVlogger",
+            "value": 9
+        },
+        {
+            "source": "Chelxie",
+            "target": "VlogVlogger",
+            "value": 1
+        },
+        {
+            "source": "YoungStrategist",
+            "target": "Le Palmashow",
+            "value": 2
+        },
+        {
+            "source": "NikkieTutorials",
+            "target": "Jeel",
+            "value": 8
+        },
+        {
+            "source": "MysteryMentor",
+            "target": "R\u00e9troDanseur",
+            "value": 8
+        },
+        {
+            "source": "Valouzz",
+            "target": "MaxStrategist",
+            "value": 5
+        },
+        {
+            "source": "DrGuardian",
+            "target": "CoolResearcher",
+            "value": 6
+        },
+        {
+            "source": "Bunka et LuccassTV",
+            "target": "M\u00e9gaWriter",
+            "value": 7
+        },
+        {
+            "source": "CryptoConsultant",
+            "target": "La Chaine de Jeremy",
+            "value": 8
+        },
+        {
+            "source": "Monsieur Poulpe",
+            "target": "Agentgb",
+            "value": 5
+        },
+        {
+            "source": "YoungWriter",
+            "target": "\u00c9liteCollector",
+            "value": 3
+        },
+        {
+            "source": "GamingGuardian",
+            "target": "NormanFaitDesVideos",
+            "value": 10
+        },
+        {
+            "source": "MonsieurGuide",
+            "target": "S\u00e9rieuxDanseur",
+            "value": 9
+        },
+        {
+            "source": "UrbanChef",
+            "target": "Valouzz",
+            "value": 9
+        },
+        {
+            "source": "MadameArchitect",
+            "target": "SadCollector",
+            "value": 1
+        },
+        {
+            "source": "ProCollector",
+            "target": "HugoPOSAY",
+            "value": 1
+        },
+        {
+            "source": "SuperbeConsultant",
+            "target": "HeureuxCrafter",
+            "value": 1
+        },
+        {
+            "source": "QuickPainter",
+            "target": "MadameCollector",
+            "value": 1
+        },
+        {
+            "source": "VodK",
+            "target": "QuickGamer",
+            "value": 7
+        },
+        {
+            "source": "Ken Bogard",
+            "target": "PrimeExplorer",
+            "value": 7
+        },
+        {
+            "source": "M\u00e9gaHistorian",
+            "target": "SadCollector",
+            "value": 6
+        },
+        {
+            "source": "Aypierre",
+            "target": "KSI",
+            "value": 3
+        },
+        {
+            "source": "S\u00e9rieuxCollector",
+            "target": "SadArtiste",
+            "value": 8
+        },
+        {
+            "source": "S\u00e9rieuxRanger",
+            "target": "MadameAstronaut",
+            "value": 5
+        },
+        {
+            "source": "MasterResearcher",
+            "target": "MasterScientist",
+            "value": 1
+        }
+    ]
+}
